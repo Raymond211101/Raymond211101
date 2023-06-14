@@ -1,7 +1,7 @@
-### Hi there 👋, Im Alexander
+### Hi there 👋, Im Kitsu
 
 <!--
-**Im Alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Im Kitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
